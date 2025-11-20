@@ -1,59 +1,31 @@
 <!DOCTYPE html>
+<meta charset UTF-8>
 <html lang="pt-br">
+<title>Sei lá</title>
+
 <head>
-  <meta charset="UTF-8">
-  <title>Exercício de CSS</title>
-
-  <style>
-    /* Seletor por TAG */
-    body {
-      background-color: #f2f2f2;
-      font-family: Arial, sans-serif;
-    }
-
-    h1 {
-      color: blue;
-      text-align: center;
-    }
-
-    /* Seletor por CLASSE */
-    .destaque {
-      color: red;
-      font-weight: bold;
-    }
-
-    /* Seletor por ID */
-    #rodape {
-      background-color: #222;
-      color: white;
-      text-align: center;
-      padding: 10px;
-      margin-top: 20px;
-    }
-
-    /* Seletor por TAG */
-    h2 {
-      color: green;
-    }
-  </style>
+<h1>Como conseguir uma namorada sendo feio</h1>
 </head>
+
 <body>
+  <h2>primeiros passos para conseguir uma namorada</h2>
 
-  <h1>Loja Bigjohn Supplements</h1>
-  <p>Confira alguns produtos:</p>
+<img src="https://share.google/f0FePadupMZsJC46r">
 
-  <h2>Whey Protein</h2>
-  <p>Suplemento para ganhar massa muscular.</p>
+  <ul>
+    <li>tenha uma boa labia, toda mulher gosta de um homem que sabe falar</li>
+    <br>
+    <li>tenha bons elegios, se você souber os elegios certos na hora certa, você esta um passo mais proximo de ganhar ela</li>
+    <br>
+    <li>seja educado, nunca fale palavras desrrespeitosas ou que humilhem alguem, vai por mim, você perde ela no primeiro deslize</li>
+    <br>
+    <li>seja honroso com seus pais, além de você estar de olho na forma em que ela trata os pais, ela também estara. Tenha cuidado.</li>
+    <br>
+    <li>seja formoso, saiba se vestir, não inventa de sair com ela com uma camisa de time, ainda mais se for uma camisa do flamengo</li>
+    <br>
+    <li>conquiste os sogros, se conquistar a familia você ganha apoio em tudo que precisar.</li>
+   </ul>
 
-  <h2 class="destaque">Creatina</h2>
-  <p>Ajuda a aumentar força e energia.</p>
-
-  <h2>BCAA</h2>
-  <p>Auxilia na recuperação muscular.</p>
-
-  <div id="rodape">
-    © 2025 Bigjohn Supplements
-  </div>
+ <h4> está lista será constantemente atualizada, então fiquem por dentro das informações lançadas. ative a notificação do site pra ficar por dentro. tchau.</h4>
 
 </body>
-</html>
